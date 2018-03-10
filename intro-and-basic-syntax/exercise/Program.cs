@@ -15,7 +15,7 @@ namespace Problem_1.Debit_Card_Number
             int thirthCard = int.Parse(Console.ReadLine());
             int fourthCard = int.Parse(Console.ReadLine());
 
-	//Readn from console
+	//Reading from console
 
             Console.WriteLine($"{firstCard:d4} {secondCard:d4} {thirthCard:d4} {fourthCard:d4}");
 	//Printing
