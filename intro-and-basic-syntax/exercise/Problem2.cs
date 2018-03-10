@@ -14,4 +14,4 @@ namespace _02._Rectangle_Area
             Console.ReadLine();
         }
     }
-}
+ }
